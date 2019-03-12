@@ -6,22 +6,24 @@ youtube_video_audio_downloader
 
 This project written in Python that download  video or audio on  YouTube.
 
+
+
 Steps:
 
-takes video or song name (user input)
+1.takes video or song name (user input)
 
-searches YouTube for the song
+2.searches YouTube for the song
 
-fetches HTML data from the search results' page
+3.fetches HTML data from the search results' page
 
-fetches the first link (after adjusting for spelling correction)
+4.fetches the first link (after adjusting for spelling correction)
 
-copies link
+5.copies link
 
-pastes it to http://1conv.com/youtube-to-mp3  for song 
+6.pastes it to http://1conv.com/youtube-to-mp3  for song 
 
-or pastes it to http://1conv.com/youtube-to-mp4  for video 
+6.or pastes it to http://1conv.com/youtube-to-mp4  for video 
 
-click convert button
+7.click convert button
 
-handles the subsequent download prompt dialogue boxes
+8.handles the subsequent download prompt dialogue boxes
